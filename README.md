@@ -3,7 +3,7 @@
 :notebook_with_decorative_cover: My PhD thesis (to be uploaded after the defense which is scheduled for March 17) and auxiliary notebooks.
 
 <div align="center">
-  <h2 align="center">Probing thermal effects on static spacetimes with Unruh-DeWitt detectors</h2>
+  <h2 align="center">Probing thermal effects on static spacetimes <br> with Unruh-DeWitt detectors</h2>
   <img align="center" src="obs_stars.png" alt="drawing" width="350"/>
 </div>
 
