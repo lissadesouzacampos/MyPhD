@@ -4,13 +4,13 @@
 
 <div align="center">
   <h2 align="center">Probing thermal effects on static spacetimes <br> with Unruh-DeWitt detectors</h2>
- <picture>
-  <source srcset="dark_obs_stars.png" media="(prefers-color-scheme: dark)">
-  <img align="center" src="obs_stars.png" alt="drawing" width="350"/>
-  </picture>
+  
+![light_mode](obs_stars_nb.png#gh-dark-mode-only)
+![dark_mode](dark_obs_stars_nbw.png#gh-light-mode-only)
+
 </div>
 
-#### :open_file_folder: Contents of the notebooks here
+  #### :open_file_folder: Contents of the notebooks here
 
 1. [on_squeezing_into_a_tiny_black_hole.nb](on_squeezing_into_a_tiny_black_hole.nb): explanation of the first sentence of my thesis (the one right after the title "Introduction": "—If we squeezed ourselves into grains of sand,\[...\]").
 
