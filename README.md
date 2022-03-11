@@ -5,8 +5,8 @@
 <div align="center">
   <h2 align="center">Probing thermal effects on static spacetimes <br> with Unruh-DeWitt detectors</h2>
   
-![1f](obs_stars.png#gh-dark-mode-only)
-![2f](dark_obs_stars_nbw.png#gh-light-mode-only)
+![1f](obs_stars.png#gh-light-mode-only)
+![2f](dark_obs_stars_nbw.png#gh-dark-mode-only)
 
 </div>
 
