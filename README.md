@@ -4,7 +4,10 @@
 
 <div align="center">
   <h2 align="center">Probing thermal effects on static spacetimes <br> with Unruh-DeWitt detectors</h2>
+ <picture>
+  <source srcset="dark_obs_stars.png" media="(prefers-color-scheme: dark)">
   <img align="center" src="obs_stars.png" alt="drawing" width="350"/>
+  </picture>
 </div>
 
 #### :open_file_folder: Contents of the notebooks here
