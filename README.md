@@ -1,6 +1,6 @@
 # MyPhD 
 
-:notebook_with_decorative_cover: My PhD thesis (to be uploaded after the defense which is scheduled for March 17) and auxiliary notebooks.
+:notebook_with_decorative_cover: My PhD thesis can be downloaded from arXiv: https://arxiv.org/abs/2203.09976. Here, one can find some auxiliary notebooks.
 
 <div align="center">
   <h2 align="center">Probing thermal effects on static spacetimes <br> with Unruh-DeWitt detectors</h2>
@@ -25,6 +25,6 @@
 The numerical analysis of the results in the Applications chapter are in separate repositories, as referenced in the papers. 
 
 #### :heavy_exclamation_mark: Erratum
-The original version of my thesis, the one that I submitted for evaluation, can be found in [coming_up_soon](coming_up_soon). The version here is an updated version, where I have corrected the following: 
+The original version of my thesis, the one that I submitted for evaluation, can be found in [coming_up_soon](coming_up_soon). The version on arXiv is an updated version, where I have corrected the following: 
 
 - misplaced parenthesis in Equations 3.3.10 and 3.3.11.
